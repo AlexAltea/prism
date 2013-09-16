@@ -93,6 +93,9 @@ var components = {
 		'http': {
 			title: 'HTTP'
 		}
+		'mathematica' : {
+			title: 'Mathematica',
+		},
 	},
 	plugins: {
 		meta: {
